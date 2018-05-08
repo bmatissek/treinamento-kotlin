@@ -1,0 +1,79 @@
+{
+  "listaAlunos": [
+    {
+      "primeiroNome": "Bruno",
+      "ultimoNome": "Matissek",
+      "nota": 7
+    },
+    {
+      "primeiroNome": "Pedro",
+      "ultimoNome": "Fonseca de Paula",
+      "nota": 4
+    },
+    {
+      "primeiroNome": "Tais",
+      "ultimoNome": "Ilha",
+      "nota": 8
+    },
+    {
+      "primeiroNome": "João",
+      "ultimoNome": "Semolina",
+      "nota": 7
+    },
+    {
+      "primeiroNome": "Jorge",
+      "ultimoNome": "Araújo",
+      "nota": 9
+    },
+    {
+      "primeiroNome": "Nuno",
+      "ultimoNome": "Gorfa",
+      "nota": 2
+    },
+    {
+      "primeiroNome": "Xexéu",
+      "ultimoNome": "Almeida Júnior",
+      "nota": 3
+    },
+    {
+      "primeiroNome": "Kellen",
+      "ultimoNome": "de Oliveira Schutz",
+      "nota": 6
+    },
+    {
+      "primeiroNome": "Peçanha",
+      "ultimoNome": "Silva Silva",
+      "nota": 10
+    },
+    {
+      "primeiroNome": "Mendanha",
+      "ultimoNome": "Júnior",
+      "nota": 9
+    },
+    {
+      "primeiroNome": "Claudinei",
+      "ultimoNome": "Pereira",
+      "nota": 9
+    },
+    {
+      "primeiroNome": "Rodrigo",
+      "ultimoNome": "Gomes Leitão",
+      "nota": 4
+    },
+    {
+      "primeiroNome": "Ramsés",
+      "ultimoNome": "Neto",
+      "nota": 10
+    },
+    {
+      "primeiroNome": "Caio Marcus",
+      "ultimoNome": "do Sossêgo",
+      "nota": 7
+    },
+    {
+      "primeiroNome": "Joãonilson",
+      "ultimoNome": "Schneider",
+      "nota": 8
+    }
+  ]
+}
