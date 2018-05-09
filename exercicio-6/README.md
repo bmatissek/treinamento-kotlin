@@ -1,8 +1,6 @@
-## Exercício 6:
-
 Prática com Generics
 
-# Tarefas
+## Tarefas
 - Crie sua própria implementação da estrutura HashMap:
 	- Sua classe deve trabalhar com dois tipos genéricos: K (referente a chave) e  V (referente ao valor) 
 	- O tipo K não pode ser nulo 
@@ -16,14 +14,14 @@ Prática com Generics
 
 - Verifique sua implementação da mesma forma feita no exercício 5 (mapeando caracteres para um inteiro representando o número de ocorrências)   
 
-# Objetivos
+## Objetivos
 - Praticar o uso de conceitos de OO e Generics em Kotlin
 
-# Resultados esperados
+## Resultados esperados
 - Implementação própria de um HashMap, contendo operações de adicionar par chave, valor no mapa e recuperar elemento a partir da chave
 - Siga os princípios de encapsulamento das propriedades e métodos
 
-Considerações
+## Considerações
 - Considere a implementação da classe HashNode dentro de uma classe privada, interna da classe HashMap
  
 - https://www.geeksforgeeks.org/implementing-our-own-hash-table-with-separate-chaining-in-java/

@@ -1,8 +1,6 @@
-## Exercício 2:
-
 Formas geométricas
 
-# Tarefas
+## Tarefas
 - Crie uma interface FormaGeometrica, que possui os métodos 'calcularArea() : Double' e 'printFormaGeometrica()';
 - Crie três classes que implementam esta interface com as seguintes propriedades privadas e somente leitura, com os respectivos construtores:
  
@@ -23,11 +21,11 @@ Sou um retangulo de largura 2.5 e altura 4.0. Minha área é 10.0.
 
 - No método main, declare uma lista contendo no mínimo 3 formas diversas, e faça a iteração pela lista realizando a chamada do método printFormaGeometrica()
 
-# Objetivos
+## Objetivos
 - Familiarizar-se inicialmente com os conceitos de:
 	- variáveis em Kotlin, e com a diferença entre 'var' e 'val';
 	- classes, construtores, interfaces e métodos;
 - Contato inicial básico com Listas
 
-# Resultados esperados
+## Resultados esperados
 - O programa deverá imprimir os dados relativos a no mínimo três formas geométricas de tipos distintos, iterando por uma lista de Formas Geométricas. É obrigatório que isto seja feito pelo método sobreescrito da Interface.

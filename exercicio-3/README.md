@@ -1,5 +1,3 @@
-## Exercício 3:
-
 Adivinhe o número aleatório
 
 # Tarefas
@@ -29,4 +27,3 @@ Adivinhe o número aleatório
 # Resultados esperados
 - O programa deve fazer a validação correta do input, e imprimir as mensagens de acordo com a diferença entre o palpite e o número aleatório gerado (utilize 'when').
 - O programa deve extender a Classe String? por meio de um método de extensão para validar se a String é um input válido
-- O  
