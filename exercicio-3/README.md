@@ -9,10 +9,10 @@ Adivinhe o número aleatório
 (Para isso, crie uma função de extensão da classe String? que retorna nulo caso a String não seja um número, ou seja um número fora do intervalo 0..100);
 
 - Calcule a diferença entre o palpite do usuário e o número gerado. Caso a diferença seja:
- - 0 : imprima "Acertou!"
- - entre 1..10: imprima "Quase!"
- - entre 11..30 : imprima "Ainda falta bastante!"
- - entre 31..100 : imprima "Errou feio, errou rude"
+	- 0 : imprima "Acertou!"
+	- entre 1..10: imprima "Quase!"
+	- entre 11..30 : imprima "Ainda falta bastante!"
+	- entre 31..100 : imprima "Errou feio, errou rude"
 
 - O programa deverá rodar até o usuário acertar o número, e informar o número de palpites necessários
 

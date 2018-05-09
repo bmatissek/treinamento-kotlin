@@ -4,17 +4,19 @@ Formas geométricas
 - Crie uma interface FormaGeometrica, que possui os métodos 'calcularArea() : Double' e 'printFormaGeometrica()';
 - Crie três classes que implementam esta interface com as seguintes propriedades privadas e somente leitura, com os respectivos construtores:
  
-a) Retangulo, com 'largura' e 'altura'
-b) Triangulo, com  'base' e 'altura'
-c) Circulo, com 'raio';
+	- Retangulo, com 'largura' e 'altura'
+	- Triangulo, com  'base' e 'altura'
+	- Circulo, com 'raio';
 
 - Sobreescreva os métodos da interface 
 OBS: printFormaGeometrica() deve imprimir na tela as dimensões da forma geométrica, bem como a área.
 
 Exemplo:
 
+```
 val retangulo = Retangulo(2.5, 4.0) 
 retangulo.printFormaGeometrica()
+```
 
 Output:
 Sou um retangulo de largura 2.5 e altura 4.0. Minha área é 10.0.
